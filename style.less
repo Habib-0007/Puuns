@@ -1,0 +1,111 @@
+@bg-color: #e7e8d1;
+@greenlike: #a7beae;
+@redlike: #b85042;
+
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Muli', sans-serif;
+}
+
+body {
+    background: @bg-color;
+}
+
+::selection {
+    background: @redlike;
+    color: @bg-color;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    header {
+        .center();
+        padding: .5em;
+        font-size: 1.2em;
+        text-align: center;
+        h1 {
+            color: @redlike;
+        }
+    }
+    main {
+        .pun-container {
+            background: darken(@greenlike, 5%);
+            color: @redlike;
+            text-align: center;
+            width: 90%;
+            max-width: 600px;
+            font-weight: 700;
+            margin: 0 auto;
+            padding: 1em;
+            border-radius: .8em;
+            box-shadow: 0px 0px 20px @redlike;
+            .pun-no {
+                font-size: 1.2em;
+                text-align: center;
+            }
+            .pun-content {
+                font-size: 1.8em;
+                margin: 1em 0;
+                text-align: center;
+            }
+            .button {
+                .center();
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                margin: 0 auto -2.5em;
+                background: @redlike;
+                i {
+                    color: @greenlike;
+                    font-size: 1.5em;
+                }
+                &:hover {
+                    box-shadow: 0px 0px 10px darken(@greenlike, 40%);
+                }
+            }
+        }
+    }
+    footer {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        li:hover {
+                a {
+                font-size: 2.5em;
+                color: darken(@greenlike, 40%);
+             } 
+        }  
+        li {
+    list-style: none;
+    margin: 1.2rem;
+    background-color: transparent;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+            a {
+    color: @redlike;
+    font-size: 1.9rem;
+    cursor: pointer;
+    transition: all 0.6s ease-in-out;    
+            }
+        }
+    }
+}

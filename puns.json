@@ -1,0 +1,682 @@
+[
+    {
+        "id": "1",
+        "pun": "Last night, I dreamed I was swimming in an ocean of orange soda, but it was just a Fanta sea."
+    },
+    {
+        "id": "2",
+        "pun": "My wife tried to apply at the post office but they wouldn't letter. They said only mails work at that office."
+    },
+    {
+        "id": "3",
+        "pun": "Did you hear about the mathematician who was afraid of negative numbers? He stops at nothing to avoid them."
+    },
+    {
+        "id": "4",
+        "pun": "What do you call a dinosaur with an extensive vocabulary? A Thesaurus"
+    },
+    {
+        "id": "5",
+        "pun": "What's the difference between a hippo and a Zippo? One is really heavy and the other is a little lighter"
+    },
+    {
+        "id": "6",
+        "pun": "Sure, I drink brake fluid, but I can stop anytime"
+    },
+    {
+        "id": "7",
+        "pun": "Which country's capital has the fastest-growing population? Ireland. Every day it's Dublin."
+    },
+    {
+        "id": "8",
+        "pun": "This girl said she recognized me from the vegetarian club, but I've never met herbivore."
+    },
+    {
+        "id": "9",
+        "pun": "A guy was admitted to the hospital with eight plastic horses in his stomach. His condition is stable."
+    },
+    {
+        "id": "10",
+        "pun": "What did baby corn say to mommy corn? 'Where is pop corn?'"
+    },
+    {
+        "id": "11",
+        "pun": "What do you call the wife of a hippie? A Mississippi."
+    },
+    {
+        "id": "12",
+        "pun": "Coffee has a rough time in our house. It gets mugged every single morning"
+    },
+    {
+        "id": "13",
+        "pun": "I wasn't originally going to get that brain transplant, but then I changed my mind."
+    },
+    {
+        "id": "14",
+        "pun": "Did you hear about that pessimist who hates German sausage? He was always fearing the Wurst."
+    },
+    {
+        "id": "15",
+        "pun": "My girlfriend thought I'd never be able to make a car out of spaghetti… You should've seen her face when I drove pasta."
+    },
+    {
+        "id": "16",
+        "pun": "Who is the penguin's favorite aunt? Aunt Arctica."
+    },
+    {
+        "id": "17",
+        "pun": "You're becoming a vegetarian? I think that's a big missed steak."
+    },
+    {
+        "id": "18",
+        "pun": "Why didn't the cat go to the vet? He was feline fine."
+    },
+    {
+        "id": "19",
+        "pun": "Whenever I undress in the bathroom my shower gets turned on."
+    },
+    {
+        "id": "20",
+        "pun": "I just found out that I'm colorblind. The news came completely out of the green."
+    },
+    {
+        "id": "21",
+        "pun": "Never date someone cross-eyed. You'll always catch them seeing other people on the side."
+    },
+    {
+        "id": "22",
+        "pun": "What do you do with chemists when they die? Barium."
+    },
+    {
+        "id": "23",
+        "pun": "I once met a pig that did karate… We called him Pork Chop."
+    },
+    {
+        "id": "24",
+        "pun": "What should a lawyer always wear to court? A good lawsuit."
+    },
+    {
+        "id": "25",
+        "pun": "My dad farted on an elevator. It was wrong on so many levels."
+    },
+    {
+        "id": "26",
+        "pun": "Apple is designing a new automatic car. But they're having trouble installing Windows."
+    },
+    {
+        "id": "27",
+        "pun": "How do you make a good egg roll? You push it down a hill."
+    },
+    {
+        "id": "28",
+        "pun": "I hate how funerals are always so early. I'm not really a mourning person"
+    },
+    {
+        "id": "29",
+        "pun": "Yesterday, a clown held the door open for me. It was such a nice jester."
+    },
+    {
+        "id": "30",
+        "pun": "I lost my job at the bank on my very first day. A woman asked me to check her balance, so I pushed her over"
+    },
+    {
+        "id": "31",
+        "pun": "Today, my son asked, 'Can I have a bookmark' I burst into tears. Eleven years old and he still doesn't know my name is Brian"
+    },
+    {
+        "id": "32",
+        "pun": "The machine at the coin factory just suddenly stopped working, with no explanation. It doesn't make any cents."
+    },
+    {
+        "id": "33",
+        "pun": "Why are math teachers so dangerous? Because they're always plotting something."
+    },
+    {
+        "id": "34",
+        "pun": "I'm a big fan of whiteboards. I find them quite re-markable."
+    },
+    {
+        "id": "35",
+        "pun": "What's the difference between a poorly dressed man on a unicycle and a nicely dressed man on a bicycle? Attire."
+    },
+    {
+        "id": "36",
+        "pun": "Jill broke her finger today, but on the other hand, she was completely fine"
+    },
+    {
+        "id": "37",
+        "pun": "Why did the scientist install a knocker on his front door? He wanted to win the No-bell prize"
+    },
+    {
+        "id": "38",
+        "pun": "I wanted to take pictures of the fog this morning… But I mist my chance. I guess I could dew it tomorrow."
+    },
+    {
+        "id": "39",
+        "pun": "A police officer just knocked on my door and told me my dogs are chasing people on bikes. That's ridiculous. My dogs don't even own bikes."
+    },
+    {
+        "id": "40",
+        "pun": "I have a few jokes about unemployed people, but none of them work."
+    },
+    {
+        "id": "41",
+        "pun": "I saw an ad for burial plots, and I thought, 'That's really the last thing I need!'"
+    },
+    {
+        "id": "42",
+        "pun": "Did you hear about the guy who got hit in the head with a can of soda? He was lucky it was a soft drink."
+    },
+    {
+        "id": "43",
+        "pun": "I bought some shoes on the drug black market. I don't know what they're laced with, but I've been tripping all day."
+    },
+    {
+        "id": "44",
+        "pun": "Did you hear about the guy who had his left leg and left arm amputated after a car crash? He's all right now."
+    },
+    {
+        "id": "45",
+        "pun": "My dad, unfortunately, passed away when we couldn't remember his blood type. His last words to us were, 'Be positive!'"
+    },
+    {
+        "id": "46",
+        "pun": "Did you hear about the kidnapping at school? It's OK. He woke up."
+    },
+    {
+        "id": "47",
+        "pun": "What's every soccer player's favorite beverage? Penal-tea."
+    },
+    {
+        "id": "48",
+        "pun": "How do you throw a space party? You planet."
+    },
+    {
+        "id": "49",
+        "pun": "I'm glad I know sign language. It can come in pretty handy."
+    },
+    {
+        "id": "50",
+        "pun": "I can't believe I got fired from the calendar factory. All I did was take a day off."
+    },
+    {
+        "id": "51",
+        "pun": "I'm on a seafood diet. Every time I see food, I eat it"
+    },
+    {
+        "id": "52",
+        "pun": "Those dead batteries were given out free of charge."
+    },
+    {
+        "id": "53",
+        "pun": "My wife told me to stop speaking in numbers. But I didn't 1 2."
+    },
+    {
+        "id": "54",
+        "pun": "I used to be a banker, but I lost interest."
+    },
+    {
+        "id": "55",
+        "pun": "Why do eggs hate jokes? The answer cracks them up"
+    },
+    {
+        "id": "56",
+        "pun": "The past, the present, and the future walk into a bar. It was tense."
+    },
+    {
+        "id": "57",
+        "pun": "I'm reading a book about anti-gravity. It's impossible to put down"
+    },
+    {
+        "id": "58",
+        "pun": "I don't trust stairs… They are always up to something"
+    },
+    {
+        "id": "59",
+        "pun": "Why does Peter Pan fly all the time? He Neverlands."
+    },
+    {
+        "id": "60",
+        "pun": "What kind of shorts do clouds wear? Thunderwear."
+    },
+    {
+        "id": "61",
+        "pun": "One lung said to another, 'we be-lung together.'"
+    },
+    {
+        "id": "62",
+        "pun": "My ex-wife still misses me. But her aim is starting to improve."
+    },
+    {
+        "id": "63",
+        "pun": "How did the picture end up in jail? It was framed."
+    },
+    {
+        "id": "64",
+        "pun": "The golfer brought an extra pair of pants in case he got a hole in one"
+    },
+    {
+        "id": "65",
+        "pun": "Writing with a dull pencil is pointless"
+    },
+    {
+        "id": "66",
+        "pun": "Did you hear about that great new shovel? It’s ground breaking."
+    },
+    {
+        "id": "67",
+        "pun": "Inspecting mirrors is a job I could really see myself doing."
+    },
+    {
+        "id": "68",
+        "pun": "I meant to look for my missing watch, but I could never find the time."
+    },
+    {
+        "id": "69",
+        "pun": "I once heard a joke about amnesia, but I forgot how it goes."
+    },
+    {
+        "id": "70",
+        "pun": "I wanted to buy a camouflage shirt, but I didn’t see one"
+    },
+    {
+        "id": "71",
+        "pun": "I was going to buy a book on phobias, but I was afraid it wouldn’t help me."
+    },
+    {
+        "id": "72",
+        "pun": "I used to have a fear of hurdles, but I got over it."
+    },
+    {
+        "id": "73",
+        "pun": "What would you call a fish with a missing eye? A fsh, probably."
+    },
+    {
+        "id": "74",
+        "pun": "Yesterday I swallowed some food coloring. I feel like I’ve dyed a little inside."
+    },
+    {
+        "id": "75",
+        "pun": "To the guy who invented Zero: Thanks for nothing!"
+    },
+    {
+        "id": "76",
+        "pun": "A man sued an airline company after it lost his luggage. Sadly, he lost his case"
+    },
+    {
+        "id": "77",
+        "pun": "Need an ark to save two of every animal? I noah guy"
+    },
+    {
+        "id": "78",
+        "pun": "Ladies, if he can’t appreciate your fruit jokes, you need to let that mango."
+    },
+    {
+        "id": "79",
+        "pun": "Can February March? No, but April May."
+    },
+    {
+        "id": "80",
+        "pun": "Why did Adele cross the road? To say hello from the other side"
+    },
+    {
+        "id": "81",
+        "pun": "The Middle Ages were called the Dark Ages because there were too many knights."
+    },
+    {
+        "id": "82",
+        "pun": "What do you use to cut a Roman Emperor's hair? Ceasers."
+    },
+    {
+        "id": "83",
+        "pun": "Never trust an atom, they make up everything!"
+    },
+    {
+        "id": "84",
+        "pun": "Long fairy tales have a tendency to dragon."
+    },
+    {
+        "id": "85",
+        "pun": "My friend drove his expensive car into a tree and found out how his Mercedes bends"
+    },
+    {
+        "id": "86",
+        "pun": "What did the buffalo say to his son? Bison."
+    },
+    {
+        "id": "87",
+        "pun": "What does a clock do when it's hungry? It goes back for seconds."
+    },
+    {
+        "id": "88",
+        "pun": "Towels can’t tell jokes. They have a dry sense of humor."
+    },
+    {
+        "id": "89",
+        "pun": "How does Moses make coffee? Hebrews it."
+    },
+    {
+        "id": "90",
+        "pun": "England doesn't have a kidney bank, but it does have a Liverpool."
+    },
+    {
+        "id": "91",
+        "pun": "Did you hear about the two silk worms in a race? It ended in a tie!"
+    },
+    {
+        "id": "92",
+        "pun": "I’m reading a horror story in Braille. Something bad is about to happen… I can feel it."
+    },
+    {
+        "id": "93",
+        "pun": "Doctor: “Sir, I’m afraid your DNA is backwards.” Me: “And?”"
+    },
+    {
+        "id": "94",
+        "pun": "Did you hear about these new reversible jackets? I’m excited to see how they turn out."
+    },
+    {
+        "id": "95",
+        "pun": "A man just assaulted me with milk, cream and butter. How dairy."
+    },
+    {
+        "id": "96",
+        "pun": "A book just fell on my head. I’ve only got myshelf to blame"
+    },
+    {
+        "id": "97",
+        "pun": "What is the best thing about living in Switzerland? Well, the flag is a big plus."
+    },
+    {
+        "id": "98",
+        "pun": "eBay is so useless. I tried to look up lighters and it gave me 13,749 matches."
+    },
+    {
+        "id": "99",
+        "pun": "My girlfriend said, “You act like a detective too much. I want to split up.” “Good idea,” I replied. “We can cover more ground that way.”"
+    },
+    {
+        "id": "100",
+        "pun": "Did you hear about the man who jumped off a bridge in France? He was in Seine."
+    },
+    {
+        "id": "101",
+        "pun": "I was going to share a vegetable joke but it’s corny."
+    },
+    {
+        "id": "102",
+        "pun": "Want to hear a joke about paper? Nevermind, it’s tearable."
+    },
+    {
+        "id": "103",
+        "pun": "A courtroom artist was arrested today. The details are sketchy."
+    },
+    {
+        "id": "104",
+        "pun": "My first job was working in an orange juice factory, but I got canned. I couldn’t concentrate."
+    },
+    {
+        "id": "105",
+        "pun": "I used to be addicted to soap. But I’m clean now."
+    },
+    {
+        "id": "106",
+        "pun": "People don’t like having to bend over to get their drinks. We really need to raise the bar."
+    },
+    {
+        "id": "107",
+        "pun": "Most people are shocked when they find out how bad an electrician I am."
+    },
+    {
+        "id": "108",
+        "pun": "Simba was walking so slowly I told him to Mufasa."
+    },
+    {
+        "id": "109",
+        "pun": "My ex used to hit me with stringed instruments. She had a history of violins."
+    },
+    {
+        "id": "110",
+        "pun": "To the man in the wheelchair that stole my camouflage jacket… you can hide but you can’t run."
+    },
+    {
+        "id": "111",
+        "pun": "No matter how much you push the envelope, it’ll still be stationery."
+    },
+    {
+        "id": "112",
+        "pun": "I’m taking part in a stair climbing competition. I need to step up my game."
+    },
+    {
+        "id": "113",
+        "pun": "I put a new freezer next to the refrigerator, now they’re just chilling."
+    },
+    {
+        "id": "114",
+        "pun": "I couldn’t quite remember how to throw a boomerang, but eventually, it came back to me."
+    },
+    {
+        "id": "115",
+        "pun": "My math teacher called me average. How mean!"
+    },
+    {
+        "id": "116",
+        "pun": "Local man killed by falling piano. It will be a low key funeral."
+    },
+    {
+        "id": "117",
+        "pun": "Just received a card full of rice. It’s from Uncle Ben."
+    },
+    {
+        "id": "118",
+        "pun": "I’m friends with 25 letters of the alphabet. I don’t know why."
+    },
+    {
+        "id": "119",
+        "pun": "Thanks for explaining the word 'many' to me, it means alot."
+    },
+    {
+        "id": "120",
+        "pun": "Today a man knocked on my door and asked for a small donation towards the local swimming pool, so I gave him a glass of water."
+    },
+    {
+        "id": "121",
+        "pun": "I tried to make a belt out of watches. It was a waist of time"
+    },
+    {
+        "id": "122",
+        "pun": "I'm going to stand outside, if anyone asks where I am tell them I am outstanding."
+    },
+    {
+        "id": "123",
+        "pun": "Tequila may not fix your life but its worth a shot."
+    },
+    {
+        "id": "124",
+        "pun": "If a judge loves the sound of his own voice, expect a long sentence."
+    },
+    {
+        "id": "125",
+        "pun": "I wanted to be an astronaut when I was a kid but my parents told me the sky was the limit."
+    },
+    {
+        "id": "126",
+        "pun": "He didn't tell his mother that he ate some glue. His lips were sealed."
+    },
+    {
+        "id": "127",
+        "pun": "He wears glasses during math because it improves division."
+    },
+    {
+        "id": "128",
+        "pun": "How did I escape Iraq? Iran."
+    },
+    {
+        "id": "129",
+        "pun": "Stop with the blind jokes...I dont see the point."
+    },
+    {
+        "id": "130",
+        "pun": "Why do they put fences around cementeries? Because people are dying to get in!"
+    },
+    {
+        "id": "131",
+        "pun": "It was an emotional wedding. Even the cake was in tiers."
+    },
+    {
+        "id": "132",
+        "pun": "Americans prefer houses with basements. In fact, they're best cellars!"
+    },
+    {
+        "id": "133",
+        "pun": "You didn’t hear about the three big holes in the ground? Well, well, well."
+    },
+    {
+        "id": "134",
+        "pun": "It's not that the man didn't know how to juggle, he just didn't have the balls to do it."
+    },
+    {
+        "id": "135",
+        "pun": "If you've been thinking about singing karaoke with a friend, just duet!"
+    },
+    {
+        "id": "136",
+        "pun": "Why are teddy bears never hungry? They are always stuffed!"
+    },
+    {
+        "id": "137",
+        "pun": "My friends say I'm getting fatter. In my defence I've had a lot on my plate recently."
+    },
+    {
+        "id": "138",
+        "pun": "My room mates are concerned that I'm using their kitchen utensils, but that's a whisk i'm willing to take"
+    },
+    {
+        "id": "139",
+        "pun": "Shout out to people who don't know what the opposite of in is!"
+    },
+    {
+        "id": "140",
+        "pun": "A criminals best asset is his lie ability."
+    },
+    {
+        "id": "141",
+        "pun": "For a fungi to grow you must give it as mushroom as possible."
+    },
+    {
+        "id": "142",
+        "pun": "After the birth of your first child, your role in life will become apparent."
+    },
+    {
+        "id": "143",
+        "pun": "I used to be a doctor, but then I lost patients."
+    },
+    {
+        "id": "144",
+        "pun": "Ed has no girlfriend because Sheeran away"
+    },
+    {
+        "id": "145",
+        "pun": "Be kind to your dentist because he has fillings too"
+    },
+    {
+        "id": "146",
+        "pun": "I hate carrying my luggage around the airport, I rest my case."
+    },
+    {
+        "id": "147",
+        "pun": "I'm going to buy some velcro for my shoes instead of laces. Why knot?"
+    },
+    {
+        "id": "148",
+        "pun": "You shouldn't play poker in the jungle because there are too many cheetahs."
+    },
+    {
+        "id": "149",
+        "pun": "Cows lie down in the rain to keep each udder dry."
+    },
+    {
+        "id": "150",
+        "pun": "My new diet consists of aircraft, however its a bit plane"
+    }, 
+    {
+        "id": "151",
+        "pun": "Having sex in an elevator is wrong on so many levels."
+    },
+    {
+        "id": "152",
+        "pun": "An atom lost an electron. It really should keep an ion them."
+    },
+    {
+        "id": "153",
+        "pun": "Why can’t Harry Potter tell the difference between his potion pot and his best friend? They’re both cauld ron."
+    },
+    {
+        "id": "154",
+        "pun": "My ceiling isn’t the best, but it’s up there."
+    },
+    {
+        "id": "155",
+        "pun": "Clones are people two."
+    },
+    {
+        "id": "156",
+        "pun": "Who designed King Arthur’s round table? Sir Cumference."
+    },
+    {
+        "id": "157",
+        "pun": "Architects are good at coming up with concrete plans."
+    },
+    {
+        "id": "158",
+        "pun": "I met my wife on a dating site. We just clicked."
+    },
+    {
+        "id": "159",
+        "pun": "Why do cows have bells? Because their horns don’t work."
+    },
+    {
+        "id": "160",
+        "pun": "I went to that new restaurant, Karma. There’s no menu, you just get what you deserve."
+    },
+    {
+        "id": "161",
+        "pun": "One-fifth of people are just too tense."
+    },
+    {
+        "id": "162",
+        "pun": "Getting paid to sleep would be my dream job."
+    },
+    {
+        "id": "163",
+        "pun": "I’m designing a reversible jacket. I’m excited to see how it turns out"
+    },
+    {
+        "id": "164",
+        "pun": "A friend said he didn’t understand cloning. I told him that makes two of us."
+    },
+    {
+        "id": "165",
+        "pun": "I recently took a pole and found out 100% of campers were angry when their tent collapsed."
+    },
+    {
+        "id": "166",
+        "pun": "What did the duck say when she purchased new lipstick? Put it on my bill."
+    },
+    {
+        "id": "167",
+        "pun": "I did a theatrical performance about puns. It was a play on words"
+    },
+    {
+        "id": "168",
+        "pun": "My kid swallowed some coins, the doctor told me to just wait. No change yet"
+    },
+    {
+        "id": "169",
+        "pun": "Today I lost my mood ring and I still don't know how I feel about it."
+    },
+    {
+        "id": "170",
+        "pun": "One-fifth of people are just too tense."
+    }
+]
